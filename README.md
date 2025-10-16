@@ -75,10 +75,10 @@ This website showcases my electrical work, featuring expert installations, repai
     </ul>
   </section>
 
----
 
 
 
 
 
-© 2025 **Femtex Engineering**. All rights reserved.
+
+© 2025 Femtex Engineering. All rights reserved.
